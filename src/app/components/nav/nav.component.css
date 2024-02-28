@@ -1,0 +1,49 @@
+.container {
+    height: 100%;
+}
+
+.sidenav {
+    width: 16rem;
+    color: white;
+    background: green;
+}
+
+img {
+    width: 90%;
+    height: 7rem;
+    margin: 1rem 1rem 1rem 1rem;
+    align-items: center;
+}
+
+/* h1 {
+    width: 100%;
+    font-family: 'Trocchi', serif; 
+    font-size: 10px; 
+    font-weight: bold; 
+    line-height: 48px;
+    margin: 0;
+    align-items: center;
+} */
+
+h1 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 2rem;
+    font-family: 'Trocchi', serif; 
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+.sidenav a {
+    color: white;
+}
+
+.sidenav i {
+    margin-right: .6rem;
+}
+
+.menu {
+    margin: 1rem 0 0 1rem;
+    color: white;
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgb(243, 151, 90) 0%, rgb(230, 144, 46) 100%);
+}

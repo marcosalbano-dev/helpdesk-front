@@ -1,0 +1,44 @@
+.container {
+    height: 100%;
+    background: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form {
+    width: 30rem;
+    margin: auto;
+    background-color: #ffffff;
+    padding: 4rem 1rem;
+    border-radius: 1rem;
+}
+
+h1 {
+    width: 100%;
+    font-family: 'Trocchi', serif; 
+    font-size: 45px; 
+    font-weight: bold; 
+    line-height: 48px;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+img {
+    height: 15rem;
+    width: 100%;
+    margin: 1.5rem auto 1.5rem auto;
+}
+
+.full-width {
+    width: 100%;
+}
+
+button {
+    margin-top: 1.5rem;
+}
+
+mat-icon {
+    opacity: .6;
+}
